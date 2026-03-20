@@ -25,8 +25,8 @@
     "vars": {
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "lonk",
-        "AUTH_PASSWORD": "$2a$10$RPq5dTy.wZY17.9jDIHulOfligIEJDtwJPZwn2QNrkO/yDuSZ9366",
-        "AUTH_SECRET": "$2y$10$IMVl9NM.Smo7xbPVyi9HEOBhcLxOPKEp9RBIEoijS4YbKjeyFjJFm"
+        "AUTH_PASSWORD": "$2a$10$Zca9gSkj.1XvR2FD9zVQnO2wwHch9cTZClaIge.da98718VUv2rTu",
+        "AUTH_SECRET": "$2a$10$Zca9gSkj.1XvR2FD9zVQnO2wwHch9cTZClaIge.da98718VUv2rTu"
     }
 }
 
